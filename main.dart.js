@@ -88434,7 +88434,7 @@ $0(){var s="clickCount",r="totalEarnedBirr",q=this.a,p=q.e,o=J.am(p)
 o.n(p,s,J.HC(o.h(p,s),1))
 q=q.e
 p=J.am(q)
-p.n(q,r,J.HC(p.h(q,r),0.2))},
+p.n(q,r,J.HC(p.h(q,r),0.1))},
 $S:0}
 A.alK.prototype={
 $1(a){var s=null,r=A.ay("Congratulations!",s,s,s,s,s,s),q=A.ay("You earned "+this.a+" birr!",s,s,s,s,s,s)
