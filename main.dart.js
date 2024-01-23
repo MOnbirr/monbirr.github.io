@@ -88280,15 +88280,15 @@ return A.rW(!1,A.ay("\ud83e\udef4 Click Me!",s,s,s,A.bE(s,s,B.j,s,s,s,s,s,s,s,s,
 pf(){var s=0,r=A.O(t.z),q=this
 var $async$pf=A.K(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:s=5
-return A.G(A.awz("http://dolatiaschan.com/4/6575894"),$async$pf)
+return A.G(A.awz("https://gloorsie.com/4/6246757"),$async$pf)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.G(A.at2("http://dolatiaschan.com/4/6575894"),$async$pf)
+return A.G(A.at2("https://gloorsie.com/4/6246757"),$async$pf)
 case 6:q.xv()
 s=3
 break
-case 4:A.bF("Could not launch http://dolatiaschan.com/4/6575894")
+case 4:A.bF("Could not launch https://gloorsie.com/4/6246757")
 case 3:return A.M(null,r)}})
 return A.N($async$pf,r)},
 xv(){var s=0,r=A.O(t.z),q=1,p,o=this,n,m,l,k
