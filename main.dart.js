@@ -89351,7 +89351,7 @@ return A.E(q.yF(n),$async$nr)
 case 8:s=b?5:7
 break
 case 5:q.N(new A.al2(q))
-p=A.hr("https://gloorsie.com/4/6246757",0,null)
+p=A.hr("http://dolatiaschan.com/4/6575894",0,null)
 s=11
 return A.E(A.ayt(p),$async$nr)
 case 11:s=b?9:10
@@ -90324,7 +90324,7 @@ case 6:n=b
 k=J.a6(n,"userId")
 j=t.z
 s=7
-return A.E(J.a_Q(h,"mycollection",A.ab(["email",J.a6(n,"email"),"userId",J.a6(n,"userId"),"timestamp",new A.cx(Date.now(),!1).mT(),"clickCount",1,"birrPerClick",0,"totalEarnedBirr",0,"totalWithdrawnBirr",0,"dailyLimit",5],j,j),"mydata",k),$async$t_)
+return A.E(J.a_Q(h,"mycollection",A.ab(["email",J.a6(n,"email"),"userId",J.a6(n,"userId"),"timestamp",new A.cx(Date.now(),!1).mT(),"clickCount",0,"birrPerClick",0,"totalEarnedBirr",0,"totalWithdrawnBirr",0,"dailyLimit",5],j,j),"mydata",k),$async$t_)
 case 7:m=b
 A.b6("Document created: "+A.f(m))
 q=1
