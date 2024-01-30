@@ -90296,7 +90296,7 @@ G(a){var s,r,q=this,p=null,o=q.e
 o===$&&A.b()
 s=A.cR(8)
 r=t.p
-return A.hB(new A.bh(new A.a7(16,16,16,16),A.bC(A.a([A.ct(A.a([A.OM(A.bK(p,A.V("New",p,p,p,A.aM(p,p,B.i,p,p,p,p,p,p,p,p,12,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.k,p,p,new A.c8(B.he,p,p,s,p,p,B.am),p,p,p,new A.a7(4,4,4,4),p,p,p),o)],r),B.v,B.ha,B.p),A.V("Reward Program",p,p,p,A.aM(p,p,p,p,p,p,p,p,p,p,p,20,p,p,B.E,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.aP(p,8,p),A.V("Earned $"+q.a.c,p,p,p,A.aM(p,p,B.b3,p,p,p,p,p,p,p,p,24,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.aP(p,16,p),A.V("Participation Count: "+q.a.d,p,p,p,A.aM(p,p,p,p,p,p,p,p,p,p,p,16,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.aP(p,16,p),A.ha(!1,A.V("Participate in Reward Program",p,p,p,p,p,p),B.k,p,p,p,p,p,new A.aqJ(q,a),p,p),A.aP(p,16,p),A.ha(!1,A.V("Withdraw Reward",p,p,p,p,p,p),B.k,p,p,p,p,p,new A.aqK(q,a),p,p)],r),B.cF,B.w,B.p),p),p,4,new A.a7(16,16,16,16),p)},
+return A.hB(new A.bh(new A.a7(16,16,16,16),A.bC(A.a([A.ct(A.a([A.OM(A.bK(p,A.V("New",p,p,p,A.aM(p,p,B.i,p,p,p,p,p,p,p,p,12,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.k,p,p,new A.c8(B.he,p,p,s,p,p,B.am),p,p,p,new A.a7(4,4,4,4),p,p,p),o)],r),B.v,B.ha,B.p),A.V("Reward Program",p,p,p,A.aM(p,p,p,p,p,p,p,p,p,p,p,20,p,p,B.E,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.aP(p,8,p),A.V("Earned: "+q.a.c,p,p,p,A.aM(p,p,B.b3,p,p,p,p,p,p,p,p,24,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.aP(p,16,p),A.V("Participation Count: "+q.a.d,p,p,p,A.aM(p,p,p,p,p,p,p,p,p,p,p,16,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.aP(p,16,p),A.ha(!1,A.V("Participate in Reward Program",p,p,p,p,p,p),B.k,p,p,p,p,p,new A.aqJ(q,a),p,p),A.aP(p,16,p),A.ha(!1,A.V("Withdraw Reward",p,p,p,p,p,p),B.k,p,p,p,p,p,new A.aqK(q,a),p,p)],r),B.cF,B.w,B.p),p),p,4,new A.a7(16,16,16,16),p)},
 R3(a){A.mm(new A.aqI(),a,t.z)},
 m(){var s=this.d
 s===$&&A.b()
