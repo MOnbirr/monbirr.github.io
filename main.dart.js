@@ -89288,7 +89288,7 @@ $0(){var s=0,r=A.H(t.z),q=1,p,o=this,n,m,l,k,j,i,h
 var $async$$0=A.C(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 s=6
-return A.A(o.a.mO("mycollection","mydata",A.a([A.aEd("participating","equal",!0)],t.s)),$async$$0)
+return A.A(o.a.mO("mycollection","mydata",A.a([A.aEd("participating","equal",!0),"limit(100000000)","offset(0)"],t.s)),$async$$0)
 case 6:n=b
 k=n.b
 j=A.aa(k).i("a9<1,am<l,@>>")
