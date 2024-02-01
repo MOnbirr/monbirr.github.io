@@ -24,10 +24,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "bda69b2d94259a62c8374769b8373c49
 "icons/android-chrome-192x192.png": "b651053cc0449b185fa4854c0774da97",
 "icons/android-chrome-512x512.png": "48925910dc7b68ff2abe72fb953b090f",
 "icons/apple-touch-icon.png": "ab909c2b03c2c453bee166497f31f17e",
-"index.html": "16905df24b5655c5fdcaa77875947651",
-"/": "16905df24b5655c5fdcaa77875947651",
+"index.html": "e12bb27d5377f86d8eaf524c97db57ec",
+"/": "e12bb27d5377f86d8eaf524c97db57ec",
 "logo.png": "b651053cc0449b185fa4854c0774da97",
-"main.dart.js": "bbb72a244493b79f37bda36d35678e66",
+"main.dart.js": "d48b8e31895a1832f799264555df7874",
 "manifest.json": "8a2c506ab479ab63fb35ec0702c5eb66",
 "monb.png": "bca00b0bb3594874bc3b16613bb53dbd",
 "version.json": "26f8f4c0926b21a96e17f5d6ec8768e9"};
