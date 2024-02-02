@@ -27815,6 +27815,7 @@ _.e=_.d=""
 _.at=0
 _.ay=""
 _.ch=$
+_.CW=0
 _.dx=!1
 _.a=null
 _.b=a
@@ -91070,28 +91071,27 @@ case 3:return A.F(null,r)
 case 1:return A.E(p,r)}})
 return A.G($async$yV,r)}}
 A.arw.prototype={
-$0(){var s,r,q,p,o,n,m=this.b,l=J.ah(m)
-l.h(m,"account")
-p=this.a
-p.e=l.h(m,"email")
-p.d=l.h(m,"name")
+$0(){var s,r,q,p,o,n=this.a,m=this.b,l=J.ah(m)
+n.CW=l.h(m,"account")
+n.e=l.h(m,"email")
+n.d=l.h(m,"name")
 l.h(m,"totalcount")
-o=l.h(m,"rewardearnedbirr")
-p.at=o==null?0:o
+p=l.h(m,"rewardearnedbirr")
+n.at=p==null?0:p
 l.h(m,"rewardwithdrawnbirr")
 l.h(m,"clickCount")
-p.ay=l.h(m,"rewardclickdate")
+n.ay=l.h(m,"rewardclickdate")
 l.h(m,"dailytasks")
 l.h(m,"rewardcompletedtasks")
 l.h(m,"rewardavailabletasks")
 l.h(m,"participating")
-p.dx=l.h(m,"rewardrequested")
+n.dx=l.h(m,"rewardrequested")
 A.av("75")
-s=A.a(p.ay.split("T"),t.s)
-n=J.a0(s,0)
-r=n
+s=A.a(n.ay.split("T"),t.s)
+o=J.a0(s,0)
+r=o
 q=J.a0d(J.a0(s,1),0,8)
-p.ch=A.iw(A.e(r)+" "+A.e(q))},
+n.ch=A.iw(A.e(r)+" "+A.e(q))},
 $S:0}
 A.arE.prototype={
 $0(){this.a.yV(this.b)},
@@ -91113,7 +91113,7 @@ p=A.M("Reward Birr",n,n,n,n,n,n)
 o=A.M(B.c.k(r.at),n,n,n,n,n,n)
 p=A.ft(n,n,A.c5(B.nS,n,n,n),n,o,p,n)
 o=A.M("CBE Account Number",n,n,n,n,n,n)
-r=A.M(B.c.k(r.at),n,n,n,n,n,n)
+r=A.M(B.e.k(r.CW),n,n,n,n,n,n)
 return A.eU(A.bo(A.a([s,q,p,A.ft(n,n,A.c5(B.GV,n,n,n),n,r,o,n)],t.p),B.ae,B.t,B.o),n,5,new A.a5(10,10,10,10),n)}},
 $S:199}
 A.arA.prototype={
