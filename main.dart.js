@@ -91801,7 +91801,7 @@ Sv(){this.L(new A.arR(this,new A.c0(Date.now(),!1)))},
 aig(){this.Sv()
 this.L(new A.arS())},
 E(a){return A.bm(A.a([this.ahm()],t.p),B.u,B.v,B.n)},
-ahm(){var s,r=this,q=null,p=A.ca(20),o=A.a([new A.b9(2,B.F,A.a_(B.c.bi(76.5),158,158,158),new A.j(0,3),10)],t.V),n=r.cy,m=n?"You are currently participating!":"You are not participating.",l=t.p
+ahm(){var s,r=this,q=null,p=A.ca(20),o=A.a([new A.b9(2,B.F,A.a_(B.c.bi(76.5),158,158,158),new A.j(0,3),10)],t.V),n=r.cy,m=n?"You are currently participating!":"You are not participating",l=t.p
 m=A.a([A.H(m,q,q,q,A.an(q,q,n?B.aL:B.aD,q,q,q,q,q,q,q,q,18,q,q,B.r,q,q,!0,q,q,q,q,q,q,q,q),q,q),A.aH(q,10,q)],l)
 if(!r.db)m.push(A.H("The program is not currently live",q,q,q,A.an(q,q,B.aD,q,q,q,q,q,q,q,q,16,q,q,B.r,q,q,!0,q,q,q,q,q,q,q,q),q,q))
 if(!r.db){n=r.a5e()
