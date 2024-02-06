@@ -92867,7 +92867,7 @@ if(p.d.length!==q.gt(r)){o=q.gt(r)
 n=J.MH(o,t.y)
 for(m=0;m<o;++m)n[m]=!1
 p.d=n}l=t.p
-j=A.a([new A.b1(B.cv,A.x("rewardparticipating Users : "+A.e(s.h(j,"count")),k,k,k,A.ai(k,k,k,k,k,k,k,k,k,k,k,18,k,k,B.q,k,k,!0,k,k,k,k,k,k,k,k),k,k),k)],l)
+j=A.a([new A.b1(B.cv,A.x("Participating Users : "+A.e(s.h(j,"count")),k,k,k,A.ai(k,k,k,k,k,k,k,k,k,k,k,18,k,k,B.q,k,k,!0,k,k,k,k,k,k,k,k),k,k),k)],l)
 if(!p.r)j.push(new A.b1(B.aU,A.be(A.a([A.x("Reward Program Rank Zone",k,k,k,A.ai(k,k,k,k,k,k,k,k,k,k,k,18,k,k,B.q,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.as(k,8,k),A.x("The winners of our reward program will be announced here once the program concludes. Stay tuned to discover your rank, completion times, and overall performance. Remember, active engagement is key to maximizing your chances of success. Unengaged interactions will not be considered for evaluation.",k,k,k,A.ai(k,k,B.O,k,k,k,k,k,k,k,k,12,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k)],l),B.a7,B.t,B.m),k))
 j.push(A.ll(A.uv(k,new A.axD(p,r),q.gt(r),B.aj,!1),1))
 j=A.a([A.ll(A.be(j,B.a7,B.t,B.m),1),A.as(k,k,16)],l)
