@@ -92520,7 +92520,7 @@ case 8:s=b?5:7
 break
 case 5:q.e=!0
 q.L(new A.asT(q))
-n=A.fL("http://dolatiaschan.com/4/6575894",0,null)
+n=A.fL("https://alive-working.com/bu3nVx0rP.3MpfvFb-mXVPJ/Z/D_0/1QMSTLkL5MMgzpAR0pLJTSU-xeOyT/knzDMTDaUB",0,null)
 s=11
 return A.w(A.ay5(n),$async$nG)
 case 11:s=b?9:10
