@@ -45160,8 +45160,6 @@ $3$crossAxisPosition$mainAxisPosition(a,b,c){return this.H(this,A.K("$3$crossAxi
 $2$hitTest$paintOffset(a,b){return this.H(this,A.K("$2$hitTest$paintOffset","$2$hitTest$paintOffset",0,[a,b],["hitTest","paintOffset"],0))},
 $4$height$itemOffset$scale(a,b,c,d){return this.H(this,A.K("$4$height$itemOffset$scale","$4$height$itemOffset$scale",0,[a,b,c,d],["height","itemOffset","scale"],0))},
 $4$itemOffset$scale$width(a,b,c,d){return this.H(this,A.K("$4$itemOffset$scale$width","$4$itemOffset$scale$width",0,[a,b,c,d],["itemOffset","scale","width"],0))},
-$8$enableDomStorage$enableJavaScript$headers$universalLinksOnly$useSafariVC$useWebView$webOnlyWindowName(a,b,c,d,e,f,g,h){return this.H(this,A.K("$8$enableDomStorage$enableJavaScript$headers$universalLinksOnly$useSafariVC$useWebView$webOnlyWindowName","$8$enableDomStorage$enableJavaScript$headers$universalLinksOnly$useSafariVC$useWebView$webOnlyWindowName",0,[a,b,c,d,e,f,g,h],["enableDomStorage","enableJavaScript","headers","universalLinksOnly","useSafariVC","useWebView","webOnlyWindowName"],0))},
-$1$reverse(a){return this.H(this,A.K("$1$reverse","$1$reverse",0,[a],["reverse"],0))},
 $6$checked$context$onCheckboxChanged$onRowTap$overlayColor$tristate(a,b,c,d,e,f){return this.H(this,A.K("$6$checked$context$onCheckboxChanged$onRowTap$overlayColor$tristate","$6$checked$context$onCheckboxChanged$onRowTap$overlayColor$tristate",0,[a,b,c,d,e,f],["checked","context","onCheckboxChanged","onRowTap","overlayColor","tristate"],0))},
 $1$task(a){return this.H(this,A.K("$1$task","$1$task",0,[a],["task"],0))},
 $1$oldWidget(a){return this.H(this,A.K("$1$oldWidget","$1$oldWidget",0,[a],["oldWidget"],0))},
@@ -45169,6 +45167,8 @@ $4$displayFeatures$padding$viewInsets$viewPadding(a,b,c,d){return this.H(this,A.
 $3$onDone$onError(a,b,c){return this.H(this,A.K("$3$onDone$onError","$3$onDone$onError",0,[a,b,c],["onDone","onError"],0))},
 $2$bottom$top(a,b){return this.H(this,A.K("$2$bottom$top","$2$bottom$top",0,[a,b],["bottom","top"],0))},
 $2$left$right(a,b){return this.H(this,A.K("$2$left$right","$2$left$right",0,[a,b],["left","right"],0))},
+$8$enableDomStorage$enableJavaScript$headers$universalLinksOnly$useSafariVC$useWebView$webOnlyWindowName(a,b,c,d,e,f,g,h){return this.H(this,A.K("$8$enableDomStorage$enableJavaScript$headers$universalLinksOnly$useSafariVC$useWebView$webOnlyWindowName","$8$enableDomStorage$enableJavaScript$headers$universalLinksOnly$useSafariVC$useWebView$webOnlyWindowName",0,[a,b,c,d,e,f,g,h],["enableDomStorage","enableJavaScript","headers","universalLinksOnly","useSafariVC","useWebView","webOnlyWindowName"],0))},
+$1$reverse(a){return this.H(this,A.K("$1$reverse","$1$reverse",0,[a],["reverse"],0))},
 $3$collectionId$databaseId$queries(a,b,c){return this.H(this,A.K("$3$collectionId$databaseId$queries","$3$collectionId$databaseId$queries",0,[a,b,c],["collectionId","databaseId","queries"],0))},
 $4$overscroll$physics$platform$scrollbars(a,b,c,d){return this.H(this,A.K("$4$overscroll$physics$platform$scrollbars","$4$overscroll$physics$platform$scrollbars",0,[a,b,c,d],["overscroll","physics","platform","scrollbars"],0))},
 $2$appBarTheme$inputDecorationTheme(a,b){return this.H(this,A.K("$2$appBarTheme$inputDecorationTheme","$2$appBarTheme$inputDecorationTheme",0,[a,b],["appBarTheme","inputDecorationTheme"],0))},
@@ -91575,8 +91575,8 @@ break
 case 5:return A.E(null,r)
 case 1:return A.D(p,r)}})
 return A.F($async$xK,r)},
-G(a){var s=this,r=null,q=A.cl(new A.Ca(r),r,r),p=s.a6c(),o=A.aHs(),n=A.ct(16),m=t.p
-return A.be(A.a([q,p,o,A.eS(new A.b1(B.aU,A.be(A.a([new A.jN(r),A.cl(A.x("Earnings and Counts",r,r,r,A.aj(r,r,B.Ef,r,r,r,r,r,r,r,r,24,r,r,B.q,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,r),A.as(r,20,r),A.bV(A.a([s.Ec("Lifetime tasks",s.z),s.Ec("Earned",s.at),s.Ec("Withdrawn",s.ax)],m),B.u,B.bk,B.m,r)],m),B.a7,B.t,B.m),r),r,4,r,new A.by(n,B.l))],m),B.u,B.t,B.m)},
+G(a){var s=this,r=null,q=s.a6c(),p=A.aHs(),o=A.ct(16),n=t.p
+return A.be(A.a([q,p,A.eS(new A.b1(B.aU,A.be(A.a([new A.jN(r),A.cl(A.x("Earnings and Counts",r,r,r,A.aj(r,r,B.Ef,r,r,r,r,r,r,r,r,24,r,r,B.q,r,r,!0,r,r,r,r,r,r,r,r),r,r),r,r),A.as(r,20,r),A.bV(A.a([s.Ec("Lifetime tasks",s.z),s.Ec("Earned",s.at),s.Ec("Withdrawn",s.ax)],n),B.u,B.bk,B.m,r)],n),B.a7,B.t,B.m),r),r,4,r,new A.by(o,B.l)),A.cl(new A.Ca(r),r,r)],n),B.u,B.t,B.m)},
 a6c(){var s=this,r=null,q=A.ct(15),p=A.a([B.uu,B.aA],t.c),o=A.a([new A.bd(2,B.H,A.V(B.d.bn(127.5),33,150,243),new A.j(0,3),10)],t.V),n=s.xJ("Available Tasks",B.e.k(s.Q),B.i),m=s.xJ("Completed Tasks",B.e.k(s.as),B.i),l=s.xJ("Break",s.HP(s.y),B.i),k=s.xJ("Break Timer",s.a6Q(),B.i),j=s.NN(),i=s.e?r:new A.amF(s),h=A.iL(r,r,r,r,r,r,8,r,r,r,r,r,r,new A.a8(20,16,20,16),new A.m(4284790262),r,new A.by(A.ct(12),B.l),r,r,r,r),g=t.p
 return A.bu(r,A.be(A.a([n,m,l,k,j,A.en(!1,A.bV(A.a([A.bK(B.nW,B.i,r,24),A.as(r,r,8),A.x("Complete Task",r,r,r,A.aj(r,r,B.i,r,r,r,r,r,r,r,r,18,r,r,B.q,r,r,!0,r,r,r,r,r,r,r,r),r,r)],g),B.u,B.aV,B.m,r),B.k,r,r,r,r,r,i,r,h)],g),B.u,B.aV,B.m),B.k,r,r,new A.bY(r,r,r,q,o,new A.fC(B.bQ,B.dY,B.b_,p,r,r),B.a9),r,r,r,new A.a8(20,20,20,20),r,r,r)},
 xJ(a,b,c){var s=null,r=this.c
