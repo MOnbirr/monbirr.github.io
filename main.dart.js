@@ -96329,11 +96329,10 @@ $S:0}
 A.aoj.prototype={
 $0(){var s="documentId",r=null,q=this.a,p=J.ad(q)
 A.yZ(p.h(q,s))
-p.h(q,s)
-A.uq(new A.nI("https://monbirr.com/#/post/postId"))
+A.uq(new A.nI("https://monbirr.com/#/post/"+p.h(q,s)))
 q=this.b.a5(t.Q)
 q.toString
-q.f.h6(A.id(r,r,r,r,r,B.w,r,A.u("URL copied to clipboard",r,r,r,r,r,r),B.b0,B.bM,r,r,r,r,r,r,r,r,r))},
+q.f.h6(A.id(r,r,r,r,r,B.w,r,A.u("Link copied",r,r,r,r,r,r),B.b0,B.bM,r,r,r,r,r,r,r,r,r))},
 $S:0}
 A.aok.prototype={
 $2(a,b){var s=null,r=b.b
