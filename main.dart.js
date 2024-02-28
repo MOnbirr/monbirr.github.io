@@ -28961,7 +28961,7 @@ case 6:i=c
 case 4:n=i
 p=8
 s=11
-return A.t(f.kH("posts","mydata",A.a([A.ah5("userId","equal",J.L(n,"userId")),"limit(1000000000)"],t.s)),$async$ue)
+return A.t(f.kH("posts","mydata",A.a([A.ah5("userId","equal",J.L(n,"userId")),"limit(1000000000)",'orderDesc("timestamp")'],t.s)),$async$ue)
 case 11:m=c
 j=m.b
 h=A.a8(j).i("a5<1,ap<k,@>>")
